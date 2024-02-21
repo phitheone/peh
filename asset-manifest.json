@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.549f6f20.css",
-    "main.js": "/static/js/main.c9f620b4.js",
+    "main.css": "/static/css/main.034d818d.css",
+    "main.js": "/static/js/main.6766acfe.js",
     "static/media/casa 2.png": "/static/media/casa 2.9529998a1c6dc02eb99e.png",
     "static/media/logo.png": "/static/media/logo.985999cd5347ccda9080.png",
     "static/media/casa 3.png": "/static/media/casa 3.d4921aa28bffe06101f3.png",
@@ -9,11 +9,11 @@
     "static/media/ventana.png": "/static/media/ventana.20e5c9ecffeb50cd4d27.png",
     "static/media/casa 1.png": "/static/media/casa 1.15a6af9cd7f065ecab9c.png",
     "index.html": "/index.html",
-    "main.549f6f20.css.map": "/static/css/main.549f6f20.css.map",
-    "main.c9f620b4.js.map": "/static/js/main.c9f620b4.js.map"
+    "main.034d818d.css.map": "/static/css/main.034d818d.css.map",
+    "main.6766acfe.js.map": "/static/js/main.6766acfe.js.map"
   },
   "entrypoints": [
-    "static/css/main.549f6f20.css",
-    "static/js/main.c9f620b4.js"
+    "static/css/main.034d818d.css",
+    "static/js/main.6766acfe.js"
   ]
 }
